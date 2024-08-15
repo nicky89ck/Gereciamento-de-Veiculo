@@ -1,0 +1,77 @@
+Projeto - Sistema Gerenciador de Veículos
+
+Orientações
+Cada integrante da dupla deve fazer o seu projeto.
+As duplas podem compartilhar códigos entre si.
+As duplas devem ser reunir para discutir a solução.
+No final do módulo a dupla entregará 1 único projeto.
+
+Pontuação
+Menu Completo (5 pontos)
+Estrutura de Pacotes (1 Ponto)
+Repository Pattern (1 Ponto)
+Invocar API de CEP (1 Ponto)
+Disponibilizar no Github (1 Ponto)
+Gerar Relatório de Vendas (1 Ponto)
+
+Entrega
+O projeto final deve ser entregue versionado no Github com o README.md atualizado.
+
+
+Interface com Usuário
+Você deve criar um menu que permita o usuário efetuar as seguintes operações:
+
+Opção 1 - Frente de Loja.
+Opção 2 - Manutenção no Cadastro.
+Opção 3 - Sair.
+Frente de Loja
+
+O objetivo da frente de Loja é focar nas consultas e pequenas manutações no cadastro.
+Opções disponíveis na frente de loja:
+
+Opção 1 - Gerenciar Veículo
+	Opção 1 - Consultar Veículo por Placa
+	Opção 2 - Voltar para o menu superior.
+Opção 2 - Gerenciar Loja
+	Opção 1 - Listar todas as Lojas
+	Opção 2 - Voltar para o menu superior.
+Opção 3 - Gerenciar Vendedor
+	Opção 1 - Consultar Vendedor por Nome
+	Opção 2 - Voltar para o menu superior.
+Opção 4 - Gerenciar Cliente
+	Opção 1 - Cadastrar Cliente
+	Opção 2 - Consultar Cliente por CPF
+	Opção 3 - Voltar para o menu superior.
+Opção 5 - Gerenciar Venda
+	Opção 1 - Cadastrar Venda.
+	Opção 2 - Voltar para o menu superior.
+Opção 6 - Voltar para o menu superior.
+
+
+Manutenção no Cadastro
+O objetivo da manutenção é alterar os dados salvos no banco de dados da aplicação
+
+Opção 1 - Gerenciar Veículo
+	Opção 1 - Cadastrar veículo
+	Opção 2 - Excluir veículo
+	Opção 3 - Alterar dados do veículo
+	Opção 4 - Voltar para o menu superior.
+Opção 2 - Gerenciar Loja
+	Opção 1 - Cadastrar Loja
+	Opção 2 - Excluir Loja
+	Opção 3 - Alterar dados da Loja
+	Opção 4 - Voltar para o menu superior.
+Opção 3 - Gerenciar Vendedor
+	Opção 1 - Cadastrar Vendedor
+	Opção 2 - Excluir Vendedor
+	Opção 3 - Alterar dados do Vendedor
+	Opção 4 - Voltar para o menu superior.
+Opção 4 - Gerenciar Cliente
+	Opção 1 - Cadastrar Cliente
+	Opção 2 - Excluir Cliente
+	Opção 3 - Alterar dados do Cliente
+	Opção 4 - Voltar para o menu superior.
+Opção 5 - Gerenciar Venda
+	Opção 1 - Excluir Venda
+	Opção 2 - Voltar para o menu superior.
+Opção 6 - Voltar para o menu superior.
